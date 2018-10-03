@@ -1,4 +1,4 @@
-# Hosetel-Management
+# Hostel-Management
 
 Hostel Management System made for our IIITV hostel. Specific to requirements.
 
